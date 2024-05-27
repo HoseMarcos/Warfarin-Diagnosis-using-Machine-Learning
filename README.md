@@ -1,0 +1,1 @@
+Warfarin Project is used to showcase how Machine/Deep learning can be used in the field of Medicine to assist in diagnosis of various diseases helping doctors to administer the right and correct dosage to patients.
